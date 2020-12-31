@@ -19,6 +19,10 @@
 
 - [codelf](https://unbug.github.io/codelf/) *在GitHub，Bitbucket，GitLab上搜索以查找实际使用变量名称*
 
+## 学习
+
+- [计算机教育中缺失的一课](https://missing-semester-cn.github.io/) *The Missing Semester of Your CS Education 中文版*
+
 ## 前端面试项目
 
 - [Front-end-Developer-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
