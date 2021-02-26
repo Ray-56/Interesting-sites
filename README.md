@@ -8,6 +8,7 @@
 - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)  *本指南为中文技术文档的编写提供了一套风格指南规范*
 - [CanIUse](https://caniuse.com/) *查看 API 的兼容性*
 - [holiday-card-maker](https://photoroom.com/holiday-card-maker/) *一个在线工具，上传肖像照，软件会自动去除背景，生成各种节日照片*
+- [JavaScript 明星项目](https://risingstars.js.org/2020/zh) *按照年份查看 JavaScript 明星项目，来自 GitHub 上增加的 star 数量*
 - **谷歌搜索 "what sound does a dinosaur make"（恐龙的声音是什么），网页就会显示一系列可以播放的动物叫声。**
 
 ## 博客
