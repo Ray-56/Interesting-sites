@@ -24,6 +24,11 @@
 
 - [计算机教育中缺失的一课](https://missing-semester-cn.github.io/) *The Missing Semester of Your CS Education 中文版*
 
+## 资源
+
+- [React 资源库搜索](https://bestofreactjs.com)
+- [Vue 资源库搜索](https://bestofvuejs.com)
+
 ## 前端面试项目
 
 - [Front-end-Developer-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
