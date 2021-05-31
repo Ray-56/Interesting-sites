@@ -29,6 +29,7 @@
 
 - [React 资源库搜索](https://bestofreactjs.com)
 - [Vue 资源库搜索](https://bestofvuejs.com)
+- [BootCDN](https://www.bootcdn.cn/) *稳定、快速、免费的前端开源项目 CDN 加速服务*
 
 ## 前端面试项目
 
