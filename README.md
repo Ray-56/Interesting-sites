@@ -16,6 +16,7 @@
 
 - [在线画图，可以保存指定位置（云盘、本地等等）](https://app.diagrams.net/)
 - [免费在线流程图思维导图](https://www.processon.com/) *免费可以保存 9 个文件*
+- [你不需要GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) *一些常用的命令行操作*
 
 ## 博客
 
