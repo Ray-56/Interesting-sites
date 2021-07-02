@@ -18,6 +18,8 @@
 - [免费在线流程图思维导图](https://www.processon.com/) *免费可以保存 9 个文件*
 - [你不需要GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) *一些常用的命令行操作*
 - [stackblitz](https://stackblitz.com/) *浏览器内运行项目，包含 React Vue Node TypeScript 等等环境*
+- [Rustpad](https://rustpad.io/) *开源的 Web 文本编辑器，支持多人同时编辑*
+- [ZeroWithShortener](https://zws.im/) *零宽度短网址生成器，利用不同数量的`零宽度空格字符`*
 
 ## 博客
 
