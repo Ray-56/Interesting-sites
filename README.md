@@ -20,6 +20,8 @@
 - [stackblitz](https://stackblitz.com/) *浏览器内运行项目，包含 React Vue Node TypeScript 等等环境*
 - [Rustpad](https://rustpad.io/) *开源的 Web 文本编辑器，支持多人同时编辑*
 - [ZeroWithShortener](https://zws.im/) *零宽度短网址生成器，利用不同数量的`零宽度空格字符`*
+- [Online converter](https://image.online-convert.com) *免费、快速和在线转换媒体。常用视频转换 Gif*
+- [tinypng](https://tinypng.com/) *压缩图片大小*
 
 ## 博客
 
