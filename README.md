@@ -22,7 +22,12 @@
 - [ZeroWithShortener](https://zws.im/) *零宽度短网址生成器，利用不同数量的`零宽度空格字符`*
 - [Online converter](https://image.online-convert.com) *免费、快速和在线转换媒体。常用视频转换 Gif*
 - [tinypng](https://tinypng.com/) *压缩图片大小*
+- [微图](https://devtool.tech/tiny-image) *最好用的极速图片压缩工具（只使用浏览器）*
 - [npm trends](https://www.npmtrends.com/) *可视化比较不同 npm 包的趋势*
+
+## UI
+
+- [那些免费的砖](https://www.thosefree.com/) *设计/前端那些免费可商用的资源*
 
 ## 博客
 
@@ -32,6 +37,7 @@
 ## 规范
 
 - [codelf](https://unbug.github.io/codelf/) *在GitHub，Bitbucket，GitLab上搜索以查找实际使用变量名称*
+- [Abbreviations](https://www.abbreviations.com/) *单词缩写查询*
 
 ## 学习
 
