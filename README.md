@@ -60,3 +60,12 @@
 - [node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 - [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 - [FE-Interview](https://github.com/lgwebdream/FE-Interview)
+
+## 奇奇怪怪
+
+- [纪妖](https://www.cbaigui.com) *记录了从古至今全世界的妖怪*
+- [无用的网站](https://theuselessweb.com) *每次打开都会转到一个小众且无用的网站*
+- [全历史](https://www.allhistory.com) *记录的全时间历史，以及详细的人物关系*
+- [逗比拯救世界](http://www.dbbqb.com) *众多表情包，可以下载*
+- [此人不存在](https://thispersondoesnotexist.com) *AI生成的人物头像，全时间不存在*
+
